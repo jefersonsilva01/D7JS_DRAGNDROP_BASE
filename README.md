@@ -6,7 +6,7 @@
 
 # 📝 About this project
 
-Project looks like kanban board functio, made for practices dragn drop concepts application
+Project looks like kanban board function, made for practices dragn drop concepts application
 
 You can see running [here](https://jeferson1.github.io/D7JS_DRAGNDROP_BASE/)
 
